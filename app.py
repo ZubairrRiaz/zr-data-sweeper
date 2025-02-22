@@ -14,7 +14,7 @@ st.markdown(
     """
     <style>
         .main {
-            background-color: #121212;  /* Overall dark background for the main page */
+ 
         }
         .block-container {
             padding: 3rem 2rem;  /* Padding around main container for spacing */
@@ -66,7 +66,7 @@ st.markdown(
 )
 
 # Display the main app title and introductory text
-st.title("Advanced Data Sweeper")  # Large, eye-catching title
+st.title("Advanced Data Sweeper App By Zubair")  # Large, eye-catching title
 st.write("Transform your files between CSV and Excel formats with built-in data cleaning and visualization.")
 
 # File uploader widget that accepts CSV and Excel files
